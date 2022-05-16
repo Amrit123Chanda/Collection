@@ -49,5 +49,10 @@ public class LinkedHashSetDemo1 {
 		
 		
 	}
+	
+		public void checkTreeSet()
+		{
+			
+		}
 
 }
